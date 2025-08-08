@@ -33,7 +33,7 @@ A comprehensive GUI-based tool for bypassing 403 Forbidden errors using various 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/403-bypass-tool.git
+   git clone https://github.com/Basty-devel/403-bypass-tool.git
    cd 403-bypass-tool```
 Install dependencies:
 
@@ -45,3 +45,4 @@ Run the tool:
 bash```
 
 python 403-Goodbye.py```
+
